@@ -1,5 +1,5 @@
-# games
-Games theory, Strategies and Nash equilibrium
+# Games
+Games theory, Strategies, Monte Carlo and Nash equilibrium
 
 
 ## Three-way duel
